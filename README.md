@@ -9,5 +9,5 @@ Features that need to be added are
 
 * The ability to insert a new element
 * The ability to print all current elements
-* The ability to get the number of elements currently in the list
+* <s>The ability to get the number of elements currently in the list<s>
 
